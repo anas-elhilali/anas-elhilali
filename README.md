@@ -44,6 +44,7 @@
 
 - **Email:** anas.elhilali.tech@gmail.com  
 - **LinkedIn:** [linkedin.com/in/anas-username](https://linkedin.com/in/anas-el-hilali)  
+💬 Feel free to reach out if you’d like to collaborate on AI, Machine Learning, or Data Science projects!
 
 
 
